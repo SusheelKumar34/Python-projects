@@ -1,0 +1,1 @@
+The random word from available list of more than 2500 words is chosen and the user is asked to guess the word, the user gets 6 chances
